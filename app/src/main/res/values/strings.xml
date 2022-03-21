@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">01FormularioBasico</string>
+    <string name="text_name">nombre</string>
+    <string name="action_greet">Saludar</string>
+    <string name="hit_name">Name</string>
+    <string name="name_edit_text">Ingrese su nombre para saludarlo</string>
+</resources>
